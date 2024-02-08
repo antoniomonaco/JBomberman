@@ -1,0 +1,10 @@
+830
+70
+50
+20
+White_Bomberman
+1
+10
+17
+1
+Nickname
