@@ -24,6 +24,6 @@ The project was developed as part of a university project and currently does not
 
 ## Contact
 
-For any questions or feedback, please contact [Antonio Pio Monaco](mailto:monacoantoniopio@gmail.com).
+For any questions or feedback, please contact [Antonio Monaco](mailto:monacoantoniopio@gmail.com).
 
 
