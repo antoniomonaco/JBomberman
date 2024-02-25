@@ -16,7 +16,7 @@ JBomberman is a project developed as part of the Methodologies of Programming co
 
 - **Java**: JBomberman requires Java to run.
 - **Java Swing**: For the graphical interface.
-- 
+  
 ## Installation and Usage
 
 1. Clone the repository: `git clone https://github.com/antoniomonaco/JBomberman.git`
