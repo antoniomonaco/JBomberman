@@ -22,10 +22,6 @@ JBomberman is a project developed as part of the Methodologies of Programming co
 
 The project was developed as part of a university project and currently does not accept external contributions.
 
-## License
-
-This project is distributed under the [MIT License](LICENSE).
-
 ## Contact
 
 For any questions or feedback, please contact [Antonio Pio Monaco](mailto:monacoantoniopio@gmail.com).
