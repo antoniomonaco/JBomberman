@@ -12,6 +12,10 @@ JBomberman is a project developed as part of the Methodologies of Programming co
 - **Save Game Management**: The game supports saving functionality, storing user progress in a text file.
 - **Map and Asset Management**: The game map is managed through a text file, while graphical assets are organized following a specific pattern for easy and modular management.
 
+## Gallery
+
+![github_1](https://github.com/antoniomonaco/JBomberman/assets/88556299/d7e6388f-e725-4357-b490-1ec3ed2bd925)
+
 ## System Requirements
 
 - **Java**: JBomberman requires Java to run.
