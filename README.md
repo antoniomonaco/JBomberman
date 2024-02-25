@@ -1,5 +1,4 @@
 # JBomberman
-# JBomberman
 
 JBomberman is a project developed as part of the Methodologies of Programming course at the University of Sapienza in Rome. This README provides an overview of the project and the design decisions made during development.
 
